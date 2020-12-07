@@ -1,0 +1,24 @@
+{
+  "name": "stripe_hubspot_to_airtable",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "airtable": "^0.10.1",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "@hubspot/api-client": "^3.0.1",
+    "ramda": "^0.27.1",
+    "stripe": "^8.127.0"
+  },
+  "devDependencies": {
+    "typescript": "^4.1.2",
+    "@types/node": "^14.14.10",
+    "@types/express": "^4.17.9",
+    "@types/ramda": "^0.27.32"
+  }
+}
